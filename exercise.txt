@@ -1,0 +1,11 @@
+1. The terminal is like windows command prompt, all of the interaction is through text inputs and outputs, and the terminal can be used to navigate and create files in a more efficient way.
+2. The difference between Git and GitHub is that Git is like a toolkit used through the terminal while GitHub is the actual place you use to store your repositories that hold your code and assets.
+3. Steps to fork GitHub Repos: 
+	1. Find the repo you want to fork
+	2. Click “fork” on the top-right corner of the page
+	3. Select owner of the forked repo 
+	4. Give the newly forked repo a name
+	5. Give the fork a description (optional)
+	6. Select to copy default or all branches
+	7. Click Create Fork
+
